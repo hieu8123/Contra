@@ -1,0 +1,17 @@
+1
+RunMan
+RunManFire
+Item
+Ground
+Sniper
+Brigde
+SniperHide
+BlockHouse
+ItemStand
+Obstacle
+SniperBoss
+Boss1Gun
+Boss1
+Water
+Camera
+Character

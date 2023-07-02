@@ -1,0 +1,539 @@
+﻿  Audio.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Background.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\Background.cpp(49,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Background.cpp(49,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Background.cpp(49,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\contra\contra\Background.cpp(61,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\Background.cpp(62,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  BaseScene.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Camera.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\Camera.cpp(6,16): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(17,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\contra\contra\Camera.cpp(18,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\contra\contra\Camera.cpp(19,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Camera.cpp(27,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(35,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(83,21): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(90,34): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(105,49): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(105,34): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Camera.cpp(156,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\Camera.cpp(161,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Camera.cpp(171,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CameraHUD.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CameraHUD.cpp(22,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CAutoDestroyBridge.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CAutoDestroyBridge.cpp(33,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CAutoDestroyBridge.cpp(36,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CB2Bullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CB2Bullet.cpp(29,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CB2Bullet.cpp(28,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CB3Bullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CBBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBBullet.cpp(37,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBBullet.cpp(36,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CBill.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBill.cpp(162,32): warning C4018: '>=': signed/unsigned mismatch
+D:\contra\contra\CBill.cpp(404,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CBoomThrow.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CBoss1.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss1.cpp(154,43): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss1.cpp(155,44): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss1.cpp(174,43): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss1.cpp(175,44): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+  CBoss1Gun.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss1Gun.cpp(56,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss1Gun.cpp(55,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CBoss2.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss2.cpp(132,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(133,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(136,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(136,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(139,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(139,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(142,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(143,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(146,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(146,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(149,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(149,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2.cpp(186,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(187,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2.cpp(189,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss2.cpp(189,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss2.cpp(190,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss2.cpp(190,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss2.cpp(191,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CBoss2.cpp(191,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CBoss2Arm.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss2Arm.cpp(13,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Arm.cpp(27,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss2Arm.cpp(38,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CBoss2Elbow.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss2Elbow.cpp(14,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Elbow.cpp(40,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Elbow.cpp(41,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Elbow.cpp(61,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Elbow.cpp(60,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss2Elbow.cpp(231,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CBoss2Hand.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss2Hand.cpp(60,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CBoss3.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CBoss3.cpp(67,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss3.cpp(167,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss3.cpp(168,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss3.cpp(171,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss3.cpp(171,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss3.cpp(175,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss3.cpp(176,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CBoss3.cpp(179,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CBoss3.cpp(179,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CDatabase.cpp
+  Generating Code...
+  Compiling...
+  CEnemy.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CEnemyUseGun.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CEnemyUseGun.cpp(38,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CEnemyWeapon.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CEnemyWeapon.cpp(230,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CFBBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CFBBullet.cpp(29,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CFBBullet.cpp(28,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CFBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CFBullet.cpp(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CFBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CFire.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CFire.cpp(58,79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CFire.cpp(59,81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CGround.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CGroundCanon.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CGroundCanon.cpp(124,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\contra\contra\CGroundCanon.cpp(129,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CGroundCanon.cpp(130,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CGroundCanon.cpp(145,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CGroundCanon.cpp(145,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CGroundElectron.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CGroundGrass.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CGroundGrass.cpp(8,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CGroundWater.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CGroundWater.cpp(8,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CItemFly.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CItemStand.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CLBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CLBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CLBullet.cpp(27,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CLBullet.cpp(38,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CLBullet.cpp(55,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  CListItemFly.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CMBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CMBullet.cpp(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CMBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CNBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CNBullet.cpp(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CNBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CNEBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CNEBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CNEBullet.cpp(27,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CObject.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CObject.cpp(15,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CObject.cpp(15,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CObject.cpp(27,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CObject.cpp(27,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CObject.cpp(39,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CObject.cpp(39,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CPlayerWeapon.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Generating Code...
+D:\contra\contra\CPlayerWeapon.cpp(95): warning C4715: 'CPlayerWeapon::Shooting': not all control paths return a value
+D:\contra\contra\CListItemFly.cpp(139): warning C4715: 'CListItemFly::getObjectTrust': not all control paths return a value
+  Compiling...
+  CResourcesManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CResourcesManager.cpp(722,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CRockFly.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CRockFly.cpp(8,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CRockFly.cpp(9,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CRockRoll.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CRockRoll.cpp(126,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  CRunman.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CRunmanFire.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CRunmanFire.cpp(88,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CRunmanFire.cpp(89,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CRunmanFire.cpp(92,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CRunmanFire.cpp(92,50): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CRunManManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  CSBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSBullet.cpp(28,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CSBullet.cpp(27,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CSniperBlock.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSniperBlock.cpp(104,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperBlock.cpp(105,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperBlock.cpp(107,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperBlock.cpp(107,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CSniperBoss.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSniperBoss.cpp(143,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CSniperBoss.cpp(146,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperBoss.cpp(147,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperBoss.cpp(160,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperBoss.cpp(160,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CSniperHide.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSniperHide.cpp(127,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CSniperHide.cpp(130,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperHide.cpp(131,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperHide.cpp(133,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperHide.cpp(133,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CSniperStand.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSniperStand.cpp(86,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CSniperStand.cpp(89,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperStand.cpp(90,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperStand.cpp(110,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperStand.cpp(110,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CSniperWater.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSniperWater.cpp(132,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperWater.cpp(133,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CSniperWater.cpp(135,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperWater.cpp(135,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperWater.cpp(136,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperWater.cpp(136,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperWater.cpp(137,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CSniperWater.cpp(137,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CSPBullet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CSPBullet.cpp(49,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CSPBullet.cpp(48,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CTank.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CTank.cpp(11,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\CTank.cpp(205,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CTank.cpp(206,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CTank.cpp(224,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\CTank.cpp(224,51): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  CWallTurret.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CWallTurret.cpp(111,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CWaterEffect.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CWaterEffect.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CWaterEffect.cpp(50,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CWeapon.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  dsutil.cpp
+D:\contra\contra\dxutil.h(78,1): warning C4005: 'DXTRACE_ERR': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxerr.h(86,1): message : see previous definition of 'DXTRACE_ERR'
+  dxutil.cpp
+  CEffectObject.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Generating Code...
+  Compiling...
+  GameContra.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\GameContra.cpp(134,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Global.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Graphic.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStarEffect.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\CStarEffect.cpp(47,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\CStarEffect.cpp(50,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Input.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\Input.cpp(90,26): warning C4804: '>': unsafe use of type 'bool' in operation
+  Physical.cpp
+  QTNode.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  QTTree.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\QTTree.cpp(22,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\contra\contra\QTTree.cpp(59,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\contra\contra\QTTree.cpp(105,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\QTTree.cpp(143,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Register.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SceneGameOver.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\SceneGameOver.cpp(151,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SceneLoading.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\SceneLoading.cpp(96,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SceneManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  SceneMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  ScenePause.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\ScenePause.cpp(177,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ScenePlay.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+D:\contra\contra\ScenePlay.cpp(164,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(165,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(166,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(167,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(168,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(169,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(170,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(171,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\contra\contra\ScenePlay.cpp(172,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SceneWin.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Sprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Sprite.cpp(79,22): warning C4018: '>=': signed/unsigned mismatch
+D:\contra\contra\Sprite.cpp(108,23): warning C4018: '>=': signed/unsigned mismatch
+D:\contra\contra\Sprite.cpp(118,23): warning C4018: '>=': signed/unsigned mismatch
+D:\contra\contra\Sprite.cpp(149,23): warning C4018: '>=': signed/unsigned mismatch
+D:\contra\contra\Sprite.cpp(184,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Sprite.cpp(184,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Sprite.cpp(184,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Sprite.cpp(184,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\contra\contra\Sprite.cpp(231,48): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\contra\contra\Sprite.cpp(231,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Surface.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Text.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Texture.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Texture.cpp(72,23): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\contra\contra\Texture.cpp(72,35): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\contra\contra\Texture.cpp(111,23): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\contra\contra\Texture.cpp(111,35): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+  Generating Code...
+D:\contra\contra\QTTree.cpp(271): warning C4715: 'QTTree::getObjectTrust': not all control paths return a value
+D:\contra\contra\Physical.cpp(279): warning C4715: 'CPhysical::CollisionY': not all control paths return a value
+D:\contra\contra\Physical.cpp(236): warning C4715: 'CPhysical::CollisionX': not all control paths return a value
+  Compiling...
+  Tiled.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Timer.cpp
+  Utils.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CWaterFallE.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  WinMain.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\contra\contra\Input.h(10,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Generating Code...
+Camera.obj : error LNK2019: unresolved external symbol D3DXVec3Transform referenced in function "public: struct D3DXVECTOR3 __cdecl CCamera::Transform(float,float)" (?Transform@CCamera@@QEAA?AUD3DXVECTOR3@@MM@Z)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioOpenW referenced in function "public: long __cdecl CWaveFile::Open(wchar_t *,struct tWAVEFORMATEX *,unsigned long)" (?Open@CWaveFile@@QEAAJPEA_WPEAUtWAVEFORMATEX@@K@Z)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioClose referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioRead referenced in function "protected: long __cdecl CWaveFile::ReadMMIO(void)" (?ReadMMIO@CWaveFile@@IEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioWrite referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioSeek referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioGetInfo referenced in function "public: long __cdecl CWaveFile::Read(unsigned char *,unsigned long,unsigned long *)" (?Read@CWaveFile@@QEAAJPEAEKPEAK@Z)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioSetInfo referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioAdvance referenced in function "public: long __cdecl CWaveFile::Read(unsigned char *,unsigned long,unsigned long *)" (?Read@CWaveFile@@QEAAJPEAEKPEAK@Z)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioDescend referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioAscend referenced in function "public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol __imp_mmioCreateChunk referenced in function "public: long __cdecl CWaveFile::ResetFile(void)" (?ResetFile@CWaveFile@@QEAAJXZ)
+dsutil.obj : error LNK2019: unresolved external symbol DirectSoundCreate8 referenced in function "public: long __cdecl CSoundManager::Initialize(struct HWND__ *,unsigned long)" (?Initialize@CSoundManager@@QEAAJPEAUHWND__@@K@Z)
+dsutil.obj : error LNK2001: unresolved external symbol IID_IDirectSound3DListener
+dsutil.obj : error LNK2001: unresolved external symbol IID_IDirectSound3DBuffer
+dsutil.obj : error LNK2001: unresolved external symbol IID_IDirectSoundNotify
+dxutil.obj : error LNK2019: unresolved external symbol __imp_timeGetTime referenced in function "float __cdecl DXUtil_Timer(enum TIMER_COMMAND)" (?DXUtil_Timer@@YAMW4TIMER_COMMAND@@@Z)
+GameContra.obj : error LNK2019: unresolved external symbol D3DXCreateSprite referenced in function "public: int __cdecl GameContra::initGame(struct HINSTANCE__ *)" (?initGame@GameContra@@QEAAHPEAUHINSTANCE__@@@Z)
+Graphic.obj : error LNK2019: unresolved external symbol Direct3DCreate9 referenced in function "public: bool __cdecl CGraphic::initDevice(struct HWND__ *)" (?initDevice@CGraphic@@QEAA_NPEAUHWND__@@@Z)
+Input.obj : error LNK2019: unresolved external symbol DirectInput8Create referenced in function "public: int __cdecl CInput::initInput(struct HINSTANCE__ *)" (?initInput@CInput@@QEAAHPEAUHINSTANCE__@@@Z)
+Input.obj : error LNK2001: unresolved external symbol IID_IDirectInput8W
+Input.obj : error LNK2001: unresolved external symbol GUID_SysKeyboard
+Input.obj : error LNK2001: unresolved external symbol c_dfDIKeyboard
+Sprite.obj : error LNK2019: unresolved external symbol D3DXMatrixMultiply referenced in function "public: struct D3DXMATRIX __cdecl D3DXMATRIX::operator*(struct D3DXMATRIX const &)const " (??DD3DXMATRIX@@QEBA?AU0@AEBU0@@Z)
+Sprite.obj : error LNK2019: unresolved external symbol D3DXMatrixTransformation2D referenced in function "public: void __cdecl CSprite::DrawFlipX(float,float)" (?DrawFlipX@CSprite@@QEAAXMM@Z)
+Surface.obj : error LNK2019: unresolved external symbol D3DXGetImageInfoFromFileW referenced in function "public: bool __cdecl CSurface::loadSurface(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned long)" (?loadSurface@CSurface@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@K@Z)
+Texture.obj : error LNK2001: unresolved external symbol D3DXGetImageInfoFromFileW
+Surface.obj : error LNK2019: unresolved external symbol D3DXLoadSurfaceFromFileW referenced in function "public: bool __cdecl CSurface::loadSurface(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned long)" (?loadSurface@CSurface@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@K@Z)
+Text.obj : error LNK2019: unresolved external symbol D3DXCreateFontIndirectW referenced in function "public: bool __cdecl CText::init(void)" (?init@CText@@QEAA_NXZ)
+Texture.obj : error LNK2019: unresolved external symbol D3DXCreateTextureFromFileExW referenced in function "protected: void __cdecl CTexture::Load(unsigned long)" (?Load@CTexture@@IEAAXK@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\contra\x64\Debug\contra.exe : fatal error LNK1120: 30 unresolved externals

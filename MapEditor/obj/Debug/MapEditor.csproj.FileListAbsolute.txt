@@ -1,0 +1,34 @@
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.Background.resources
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.MapEditor.resources
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\Caca\Documents\Visual Studio 2013\Projects\ContraGame\MapEditor\obj\Debug\MapEditor.pdb
+D:\SE102.N21\contra\MapEditor\bin\Debug\MapEditor.exe.config
+D:\SE102.N21\contra\MapEditor\bin\Debug\MapEditor.exe
+D:\SE102.N21\contra\MapEditor\bin\Debug\MapEditor.pdb
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.csproj.AssemblyReference.cache
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.csproj.SuggestedBindingRedirects.cache
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.Background.resources
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.MapEditor.resources
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.exe
+D:\SE102.N21\contra\MapEditor\obj\Debug\MapEditor.pdb
+D:\Contra\MapEditor\bin\Debug\MapEditor.exe.config
+D:\Contra\MapEditor\bin\Debug\MapEditor.exe
+D:\Contra\MapEditor\bin\Debug\MapEditor.pdb
+D:\Contra\MapEditor\obj\Debug\MapEditor.csproj.AssemblyReference.cache
+D:\Contra\MapEditor\obj\Debug\MapEditor.csproj.SuggestedBindingRedirects.cache
+D:\Contra\MapEditor\obj\Debug\MapEditor.Background.resources
+D:\Contra\MapEditor\obj\Debug\MapEditor.MapEditor.resources
+D:\Contra\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\Contra\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\Contra\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\Contra\MapEditor\obj\Debug\MapEditor.exe
+D:\Contra\MapEditor\obj\Debug\MapEditor.pdb

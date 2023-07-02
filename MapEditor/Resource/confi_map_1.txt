@@ -1,0 +1,9 @@
+1
+RunMan
+RunManFire
+Item
+Boss1
+SniperBoss
+Boss1Gun
+Camera
+Character
